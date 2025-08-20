@@ -64,7 +64,7 @@ python pr1_code.py
 ```
 The following Results are Observed:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed11d08c-cbea-4f8b-a405-2178f9e7d046" alt="Pitch_without_optimization" width="300"/><img src="https://github.com/user-attachments/assets/f97373a3-ec6a-4ef0-86a9-63f0ceed1403" alt="Roll_without_optimization" width="300"/><img src="https://github.com/user-attachments/assets/fabf3945-de13-402c-9b4f-9777154767fa" alt="Yaw_without_optimization" width="300"/>
+  <img src="https://github.com/user-attachments/assets/759dba25-5f0d-4d81-9895-37d47e75adde" alt="Pitch_without_optimization" width="300"/><img src="https://github.com/user-attachments/assets/5c9100c5-f339-459d-b4b3-8fdc0e366504" alt="Roll_without_optimization" width="300"/><img src="https://github.com/user-attachments/assets/40b1997c-750c-42b7-8f26-3522d6d17897" alt="Yaw_without_optimization" width="300"/>
 </p>
 
 ### 3️⃣ Projected Gradient Descent for Optimization
@@ -74,13 +74,13 @@ python pr1_code_last.py
 ```
 The following Results are Observed:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82272a8e-de8e-47b6-9c4e-ef36b28ed499" alt="Roll_with_optimization" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1f17b947-5d3e-4871-b2aa-a45b0a099fd4" alt="Roll_with_optimization" width="500"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a5a2d1b-9488-4589-98bc-da6bc3f938f6" alt="Pitch_with_optimization" width="500"/>
+  <img src="https://github.com/user-attachments/assets/463663b1-4460-40f1-9e57-9becc6302bc4" alt="Pitch_with_optimization" width="500"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f441bb2a-b665-442d-8fa4-53e3719bdc5e" alt="Yaw_with_optimization" width="500"/>
+  <img src="https://github.com/user-attachments/assets/08a2c8d2-5d7f-4fcd-b621-043edf69cb62" alt="Yaw_with_optimization" width="500"/>
 </p>
 
 ### 4️⃣ Panorama Generation 
@@ -90,5 +90,5 @@ python panorama.py
 ```
 The following Results are Observed:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/296d49a9-72e4-49c8-8334-bc3aa7b0ca98" alt="Panorama" width="800"/>
+  <img src="https://github.com/user-attachments/assets/bb35cad9-fd0f-4db3-a5d5-ce4723f9ba60" alt="Panorama" width="800"/>
 </p>
