@@ -14,7 +14,7 @@
 This repository contains a robotics perception project developed as part of **ECE 276A: Sensing & Estimation in Robotics** at **UC San Diego**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3e1c1f4-348c-46c9-a548-e6a659716f85" alt="IMU and Camera Sensors" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9bbd150d-7350-421d-a4be-4925e82fa27f" alt="IMU and Camera Sensors" width="400"/>
 </p>
 
 The goal is to:
